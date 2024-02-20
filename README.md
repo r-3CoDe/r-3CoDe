@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Dulkith]! 👋
 
 I'm a [Coder] passionate about [Java and Python]. Welcome to my GitHub profile!
 
-![Programming Animation](https://boulderbugle.com/0MSpLi6p)
+![read.me](https://boulderbugle.com/0MSpLi6p)
 
 ## About Me
 

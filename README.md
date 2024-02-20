@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @r-3CoDe
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 📫 How to reach me dulkithperera00@gmail.com 
-- ⚡ Fun fact: I Play Minecraft and a Minecraft Content Creater-check out ETERNAL_LEGENDS
+# Hi there, I'm [Your Name]! 👋
 
-<!---
-r-3CoDe/r-3CoDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a [Your Job Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+
+![Programming Animation](https://imgflip.com/gif/8ggibk)
+
+## About Me
+
+- 🌐 I'm currently working at [Your Company/Institution].
+- 🚀 I love diving into new technologies and exploring innovative ideas.
+- 💡 I believe in the power of collaboration and open source.
+

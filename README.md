@@ -1,8 +1,8 @@
 # Hi there, I'm [Your Name]! 👋
 
-I'm a [Your Job Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+I'm a [Coder] passionate about [Java and Python]. Welcome to my GitHub profile!
 
-![Programming Animation](<iframe src="https://giphy.com/embed/RyAuIdvXOugUw" width="475" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/RyAuIdvXOugUw">via GIPHY</a></p>)
+![Programming Animation](https://boulderbugle.com/0MSpLi6p)
 
 ## About Me
 

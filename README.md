@@ -9,5 +9,4 @@ I'm a [Coder] passionate about [Java and Python]. Welcome to my GitHub profile!
 
 - 🚀 I love diving into new technologies and exploring innovative ideas.
 - 💡 I believe in the power of collaboration and open source.
-
 ![Hi There GIF](https://i.gifer.com/1UEW.gif)

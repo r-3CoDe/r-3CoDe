@@ -5,7 +5,7 @@
 
 
 
-I'm a [Coder] passionate about [Java and Python]. Welcome to my GitHub profile!
+#I'm a [Coder] passionate about [Java and Python]. Welcome to my GitHub profile!
 
 [![Neon Background Image](https://www.bing.com/th?id=OIG1.IGyFd5jt8N5CRA.IGchx&w=300)](https://example.com/your-link)
 

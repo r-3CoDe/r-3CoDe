@@ -2,22 +2,9 @@
 
 I'm a [Coder] passionate about [Java and Python]. Welcome to my GitHub profile!
 
-![read.me]
+[![Neon Background Image](https://www.bing.com/images/create/a-picture-with-a-neon-background-saying-22blytz22-i/1-65dc778592f045d1996bfefda59dc668?id=jlJUDVkhoXlawF1DIIpEhw%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.IGyFd5jt8N5CRA.IGchx&FORM=GCRIDP&mode=overlay)](https://example.com/your-link)
+
 ## About Me
 
 - 🚀 I love diving into new technologies and exploring innovative ideas.
 - 💡 I believe in the power of collaboration and open source.
-
-# Hi there, I'm [Your Name]! 👋
-
-I'm a [Your Job Title] passionate about [Your Interests]. Welcome to my GitHub profile!
-
-![Programming Animation](url-to-your-animated-gif-or-image)
-
-## About Me
-
-- 🌐 I'm currently working at [Your Company/Institution].
-- 🚀 I love diving into new technologies and exploring innovative ideas.
-- 💡 I believe in the power of collaboration and open source.
-
-![Random Image](https://picsum.photos/200/300)
